@@ -11,7 +11,6 @@ header {
     transform: translateX(-50%); /* Menggeser header ke kiri setengah lebar header */
     }
 .navbar {
-    display: flex;
     justify-content: space-between; /* Memisahkan elemen kiri dan kanan */
     align-items: center; /* Menyelaraskan elemen secara vertikal */
     padding: 10px; /* Tambahkan padding jika diperlukan */
